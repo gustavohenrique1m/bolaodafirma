@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Bolaodafirma/static/js/main.75499d36.js",
-    "index.html": "/Bolaodafirma/index.html",
-    "main.75499d36.js.map": "/Bolaodafirma/static/js/main.75499d36.js.map"
+    "main.js": "/bolaodafirma/static/js/main.1e67cce3.js",
+    "index.html": "/bolaodafirma/index.html",
+    "main.1e67cce3.js.map": "/bolaodafirma/static/js/main.1e67cce3.js.map"
   },
   "entrypoints": [
-    "static/js/main.75499d36.js"
+    "static/js/main.1e67cce3.js"
   ]
 }
